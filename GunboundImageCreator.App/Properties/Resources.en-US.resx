@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddLabel" xml:space="preserve">
+    <value>Add Image</value>
+  </data>
+  <data name="CoordXLabel" xml:space="preserve">
+    <value>Coord X</value>
+  </data>
+  <data name="CoordYLabel" xml:space="preserve">
+    <value>Coord Y</value>
+  </data>
+  <data name="DeleteLabel" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="ImagesLabel" xml:space="preserve">
+    <value>Images</value>
+  </data>
+  <data name="TransparencyTypeLabel" xml:space="preserve">
+    <value>Transparency</value>
+  </data>
+  <data name="SaveLabel" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="WindowTitle" xml:space="preserve">
+    <value>Ar2roMx Image Creator</value>
+  </data>
+  <data name="FileLabel" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="NewLabel" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="OpenLabel" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="ErrorLabel" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="ErrorProcessingFile" xml:space="preserve">
+    <value>An error occurred while processing the file</value>
+  </data>
+  <data name="AddKeyFrameLabel" xml:space="preserve">
+    <value>Add keyframe</value>
+  </data>
+  <data name="CreateAnimationLabel" xml:space="preserve">
+    <value>Create animation</value>
+  </data>
+  <data name="DurationLabel" xml:space="preserve">
+    <value>Duration</value>
+  </data>
+  <data name="KeyFrameLabel" xml:space="preserve">
+    <value>Keyframe</value>
+  </data>
+  <data name="OpenAnimationLabel" xml:space="preserve">
+    <value>Open animation</value>
+  </data>
+  <data name="RemoveKeyFrameLabel" xml:space="preserve">
+    <value>Delete keyframe</value>
+  </data>
+  <data name="AnimationLabel" xml:space="preserve">
+    <value>Animation</value>
+  </data>
+  <data name="DeleteTimeLineLabel" xml:space="preserve">
+    <value>Delete timeline</value>
+  </data>
+  <data name="AnimationTypeLabel" xml:space="preserve">
+    <value>Animation type</value>
+  </data>
+  <data name="CreateTimeLineLabel" xml:space="preserve">
+    <value>Create timeline</value>
+  </data>
+  <data name="RepeatLabel" xml:space="preserve">
+    <value>Repeat</value>
+  </data>
+  <data name="ExportLabel" xml:space="preserve">
+    <value>Export</value>
+  </data>
+  <data name="AlertLabel" xml:space="preserve">
+    <value>Alert</value>
+  </data>
+  <data name="AnimationTypeExists" xml:space="preserve">
+    <value>The type of the animation already exists!</value>
+  </data>
+  <data name="EmptyAnimationType" xml:space="preserve">
+    <value>Animation type cannot be empty</value>
+  </data>
+  <data name="HeightLabel" xml:space="preserve">
+    <value>Height</value>
+  </data>
+  <data name="WidthLabel" xml:space="preserve">
+    <value>Width</value>
+  </data>
+  <data name="CancelLabel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="LoginLabel" xml:space="preserve">
+    <value>Email / Nickname</value>
+  </data>
+  <data name="PasswordLabel" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="SessionLabel" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="SignupLabel" xml:space="preserve">
+    <value>Sign up</value>
+  </data>
+  <data name="EmailLabel" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="FirstNameLabel" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="HelpLabel" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="LastNameLabel" xml:space="preserve">
+    <value>Last name</value>
+  </data>
+  <data name="NicknameLabel" xml:space="preserve">
+    <value>Nickname</value>
+  </data>
+  <data name="PasswordConfirmLabel" xml:space="preserve">
+    <value>Confirm password</value>
+  </data>
+  <data name="SignupWindowTitle" xml:space="preserve">
+    <value>Sign up</value>
+  </data>
+  <data name="RegisterAppTitle" xml:space="preserve">
+    <value>Register application</value>
+  </data>
+  <data name="SendLabel" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="AppNotRegistered" xml:space="preserve">
+    <value>Application not registered, you will be asked for a serial number</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Confirm your password</value>
+  </data>
+  <data name="ErrorConnectingLabel" xml:space="preserve">
+    <value>Connection Failure</value>
+  </data>
+  <data name="ErrorConnectingServer" xml:space="preserve">
+    <value>There was an error trying to connect to the server.</value>
+  </data>
+  <data name="IncorrectCredentials" xml:space="preserve">
+    <value>The user or password is incorrect!</value>
+  </data>
+  <data name="InsertEmail" xml:space="preserve">
+    <value>Insert your email</value>
+  </data>
+  <data name="InsertFirstName" xml:space="preserve">
+    <value>Insert your first name</value>
+  </data>
+  <data name="InsertLastName" xml:space="preserve">
+    <value>Insert your last name</value>
+  </data>
+  <data name="InsertNickname" xml:space="preserve">
+    <value>Insert your nickname</value>
+  </data>
+  <data name="InsertNickOrEmail" xml:space="preserve">
+    <value>Insert your nickname or email</value>
+  </data>
+  <data name="InsertPassword" xml:space="preserve">
+    <value>Insert a password</value>
+  </data>
+  <data name="InsertSerialNumber" xml:space="preserve">
+    <value>Insert the serial number</value>
+  </data>
+  <data name="InvalidEmail" xml:space="preserve">
+    <value>Invalid email</value>
+  </data>
+  <data name="InvalidFirstName" xml:space="preserve">
+    <value>The name can contain only letters and spaces</value>
+  </data>
+  <data name="InvalidLastName" xml:space="preserve">
+    <value>The last name can contain only letters and spaces</value>
+  </data>
+  <data name="InvalidNickname" xml:space="preserve">
+    <value>The nickname can only contain letters and numbers</value>
+  </data>
+  <data name="InvalidPwdConfirm" xml:space="preserve">
+    <value>Passwords do not match</value>
+  </data>
+  <data name="SavedPcInfo" xml:space="preserve">
+    <value>Your computer's information saved correctly to the clipboard. Send it to the administrator.</value>
+  </data>
+  <data name="SignupFailed" xml:space="preserve">
+    <value>An error occurred while processing your request, please try again later.</value>
+  </data>
+  <data name="SignupSuccess" xml:space="preserve">
+    <value>Registration successfully!</value>
+  </data>
+  <data name="ThanksForRegister" xml:space="preserve">
+    <value>Thank you for registering the product</value>
+  </data>
+  <data name="CopyrightLabel" xml:space="preserve">
+    <value>Copyright © 2012 Ar2roMx. All rights reserved.</value>
+  </data>
+  <data name="SerialNumberLabel" xml:space="preserve">
+    <value>Serial number</value>
+  </data>
+  <data name="AcceptTerms" xml:space="preserve">
+    <value>By clicking on signup button, you agree to the terms of use and privacy policies, to read the terms, click read.</value>
+  </data>
+  <data name="FakeDataAtSignup" xml:space="preserve">
+    <value>The use of fake information in the subscription, will result in cancellation</value>
+  </data>
+  <data name="BackgroundHeaderLabel" xml:space="preserve">
+    <value>Background {0}</value>
+  </data>
+  <data name="ImageHeader" xml:space="preserve">
+    <value>Image {0}</value>
+  </data>
+  <data name="ImageLabel" xml:space="preserve">
+    <value>Image</value>
+  </data>
+  <data name="LanguageLabel" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="EnglishLabel" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="LanguageChangedLabel" xml:space="preserve">
+    <value>Lenguage change</value>
+  </data>
+  <data name="LenguageChanged" xml:space="preserve">
+    <value>The language has changed. Restart the program to apply changes.</value>
+  </data>
+  <data name="ReadTermsLabel" xml:space="preserve">
+    <value>Read terms of use and privacy policy</value>
+  </data>
+  <data name="SpanishLabel" xml:space="preserve">
+    <value>Español</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="TermsOfUseRtf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tos_en.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  </data>
+  <data name="mb00000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mb00000.img;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mh00000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mh00000.img;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="AnimationPreviewLabel" xml:space="preserve">
+    <value>Animation preview</value>
+  </data>
+  <data name="AvatarPreviewLabel" xml:space="preserve">
+    <value>Avatar preview</value>
+  </data>
+  <data name="EditorLabel" xml:space="preserve">
+    <value>Editor</value>
+  </data>
+  <data name="ResetLabel" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+  <data name="WearAvatarLabel" xml:space="preserve">
+    <value>Wear current avatar</value>
+  </data>
+  <data name="FileNotOpenLabel" xml:space="preserve">
+    <value>No file selected</value>
+  </data>
+  <data name="SelectFolderLabel" xml:space="preserve">
+    <value>Select folder</value>
+  </data>
+  <data name="BlockedSerialNumber" xml:space="preserve">
+    <value>The serial number has been blocked</value>
+  </data>
+  <data name="HardwareIdMismatch" xml:space="preserve">
+    <value>The computer that you're using is different than the computer you've registered this product. Have you changed the hardware?</value>
+  </data>
+  <data name="PaymentNotMade" xml:space="preserve">
+    <value>The license payment has not been done, pay the licence fee and contact the administrator</value>
+  </data>
+  <data name="PurchaseError" xml:space="preserve">
+    <value>You have not recently purchased a license.</value>
+  </data>
+  <data name="TrialExpired" xml:space="preserve">
+    <value>Trial period has expired. Contact the administrator for licence purchase.</value>
+  </data>
+  <data name="UnknowError" xml:space="preserve">
+    <value>Unknow error</value>
+  </data>
+  <data name="EmailInUse" xml:space="preserve">
+    <value>Email already in use</value>
+  </data>
+  <data name="InvalidProduct" xml:space="preserve">
+    <value>Product does not exists</value>
+  </data>
+  <data name="InvalidSerialNumber" xml:space="preserve">
+    <value>Invalid serial number</value>
+  </data>
+  <data name="NicknameInUse" xml:space="preserve">
+    <value>Nickname already in use</value>
+  </data>
+  <data name="UpdateAvailable" xml:space="preserve">
+    <value>An update is available. Run the updater to get the latest version.</value>
+  </data>
+  <data name="AlphaLabel" xml:space="preserve">
+    <value>Alpha</value>
+  </data>
+  <data name="BackgroundLabel" xml:space="preserve">
+    <value>Background</value>
+  </data>
+  <data name="NoneLabel" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="SimpleLabel" xml:space="preserve">
+    <value>Simple</value>
+  </data>
+  <data name="ExpirationDateLabel" xml:space="preserve">
+    <value>Due date</value>
+  </data>
+  <data name="LicenceInfoTitle" xml:space="preserve">
+    <value>Licence Information</value>
+  </data>
+  <data name="LicenceLabel" xml:space="preserve">
+    <value>Licence</value>
+  </data>
+  <data name="PriceLabel" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="PortuguesLabel" xml:space="preserve">
+    <value>Português</value>
+  </data>
+</root>

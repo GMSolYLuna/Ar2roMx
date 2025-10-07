@@ -1,0 +1,22 @@
+﻿<Window x:Class="GunboundImageCreator.App.TermsOfUsePrivacity"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Términos de uso y privacidad"
+        WindowStartupLocation="CenterOwner"
+        Height="490"
+        Width="453"
+        Icon="/Ar2roMxImageCreator;component/AGICIcon.ico"
+        Loaded="WindowLoaded" Background="#FF2B2B2B"
+        MaxWidth="453"
+        MinWidth="453"
+        MinHeight="490"
+        MaxHeight="490">
+    <Grid>
+        <RichTextBox Margin="12"
+                     Name="rtxtTermsOfUseAndPrivacity"
+                     AcceptsTab="True"
+                     IsReadOnly="True"
+                     SnapsToDevicePixels="True"
+                     VerticalScrollBarVisibility="Auto" Background="#FF5C5C5C" Foreground="White" />
+    </Grid>
+</Window>

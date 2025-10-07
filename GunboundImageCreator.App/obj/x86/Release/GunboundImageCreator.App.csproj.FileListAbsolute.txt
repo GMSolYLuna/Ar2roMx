@@ -1,0 +1,82 @@
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.Updater\bin\Release\Ar2roMxImageCreator.exe.config
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.Updater\bin\Release\Ar2roMxImageCreator.exe
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.Updater\bin\Release\Ar2roMxImageCreator.pdb
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.Updater\bin\Release\es-ES\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.Updater\bin\Release\en-US\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.Updater\bin\Release\pt-BR\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Debug\Ar2roMxImageCreator.exe.config
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxImageCreator.exe.config
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxImageCreator.exe
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxImageCreator.pdb
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\es-ES\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\en-US\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\pt-BR\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxAppsRegister.Entities.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\GunboundTools.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\GunboundTools.pdb
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxAppsRegister.Entities.pdb
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\AnimationFrameImage.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GbImgCreatorStyles.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\ImageFrame.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\TermsOfUsePrivacity.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\App.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\AnimationFrameImage.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\ImageFrame.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\LicenceInformation.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Login.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\MainWindow.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\SerialNumberWindow.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\SignupWindow.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\TermsOfUsePrivacity.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\App.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator_MarkupCompile.cache
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator_MarkupCompile.lref
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.resources
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.es-ES.resources
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.en-US.resources
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.pt-BR.resources
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\LicenceInformation.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Login.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\MainWindow.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\SerialNumberWindow.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\SignupWindow.baml
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator.g.es-ES.resources
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\es-ES\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\en-US\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\pt-BR\Ar2roMxImageCreator.resources.dll
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator.exe
+D:\Visual Studio Projects\Projects\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator.pdb
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxImageCreator.exe.config
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxImageCreator.exe
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\Ar2roMxImageCreator.pdb
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\es-ES\Ar2roMxImageCreator.resources.dll
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\en-US\Ar2roMxImageCreator.resources.dll
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\GunboundTools.dll
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\bin\Release\GunboundTools.pdb
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.csprojResolveAssemblyReference.cache
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\AnimationFrameImage.baml
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GbImgCreatorStyles.baml
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\ImageFrame.baml
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\TermsOfUsePrivacity.baml
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\App.baml
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\AnimationFrameImage.g.cs
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\ImageFrame.g.cs
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\MainWindow.g.cs
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\TermsOfUsePrivacity.g.cs
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\App.g.cs
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator_MarkupCompile.cache
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator_MarkupCompile.lref
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.resources
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.es-ES.resources
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.Properties.Resources.en-US.resources
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\GunboundImageCreator.App.csproj.GenerateResource.Cache
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\MainWindow.baml
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator.g.es-ES.resources
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\es-ES\Ar2roMxImageCreator.resources.dll
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\en-US\Ar2roMxImageCreator.resources.dll
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator.exe
+C:\Users\Ar2roMx\Desktop\GunboundImageCreator\GunboundImageCreator.App\obj\x86\Release\Ar2roMxImageCreator.pdb
